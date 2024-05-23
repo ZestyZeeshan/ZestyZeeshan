@@ -1,11 +1,11 @@
 [![MasterHead](https://imgs.search.brave.com/6QhBjTRd2H-kDzjUFSUrtbr0AFt8yCSnqSPUqAkQiCU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvY29kaW5nLWNv/bmNlcHQtaWRlYS1w/cm9ncmFtbWluZy1j/b21wdXRlcl8yNzc5/MDQtMzMyOS5qcGc_/c2l6ZT02MjYmZXh0/PWpwZw)]
 <h1 align="center">Hi 👋, I'm Mohammad Zeeshan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt ="Coding" width="400 src="https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.webp">
+<img align="right" alt ="Coding" width="400 src="[https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.webp](https://imgs.search.brave.com/nfrrF8YIrDXeV2Mv9ZH8rrUFg4x4DY86KOSO55GoHPg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzg4LzkxLzA1/LzM2MF9GXzE4ODkx/MDUxMF9YWFFQMnZn/V1JPRVpvMFk4N21v/UFUzQzdCZjFYd1JS/Sy5qcGc)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zestyzeeshan&label=Profile%20views&color=0e75b6&style=flat" alt="zestyzeeshan" /> </p>
 
-- 🔭 I’m currently working on [TherapEase](https://therapease-mentalhealth.netlify.app/)
+- 🔭 I’m currently looking for Internship 
 
 - 🌱 I’m currently learning **ReactJs, Database**
 
