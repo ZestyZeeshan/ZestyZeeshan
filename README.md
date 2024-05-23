@@ -1,8 +1,8 @@
-[![MasterHead](https://imgs.search.brave.com/6QhBjTRd2H-kDzjUFSUrtbr0AFt8yCSnqSPUqAkQiCU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvY29kaW5nLWNv/bmNlcHQtaWRlYS1w/cm9ncmFtbWluZy1j/b21wdXRlcl8yNzc5/MDQtMzMyOS5qcGc_/c2l6ZT02MjYmZXh0/PWpwZw)]
+[![MasterHead](https://t3.ftcdn.net/jpg/03/32/21/56/240_F_332215667_FRtsNh6JCtsstNqBlLmiP5dixFFWNJfS.jpg)]
 <h1 align="center">Hi 👋, I'm Mohammad Zeeshan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img align="right" alt ="Coding" width="400 src="https://imgs.search.brave.com/LZyx14l4a_rOiWB5qgmC3trodr4N2b6yAsEVWTYsqRw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDUv/NjExLzA3OS9zbWFs/bC9idXNpbmVzc21h/bi1kZXNpZ25pbmct/YS13ZWJzaXRlLWJ5/LWNvZGluZy1vbi1h/LWRlc2t0b3AtY29t/cHV0ZXItaW1hZ2Vz/LWZvci13ZWItYmFu/bmVycy1mcmVlLXZl/Y3Rvci5qcGc">
- -->
+ <img align="right" alt ="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/88/91/05/240_F_188910510_XXQP2vgWROEZo0Y87moPU3C7Bf1XwRRK.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zestyzeeshan&label=Profile%20views&color=0e75b6&style=flat" alt="zestyzeeshan" /> </p>
 
 - 🔭 I’m currently looking for Internship 
