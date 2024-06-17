@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohdzeeshanmohammad@gmail.com**
 
-- ⚡ Fun fact **call me Zesty**
+- ⚡ Fun fact **call me Zesty.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
