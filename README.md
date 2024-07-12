@@ -1,5 +1,5 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/03/32/21/56/240_F_332215667_FRtsNh6JCtsstNqBlLmiP5dixFFWNJfS.jpg)
-<h1 align="center">Hi 👋, I'm Mohammad Zeeshan </h1>
+<h1 align="center">Hi 👋, I'm Mohammad Zeeshan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt ="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/88/91/05/240_F_188910510_XXQP2vgWROEZo0Y87moPU3C7Bf1XwRRK.jpg">
 
