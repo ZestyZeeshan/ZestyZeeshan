@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs, Database**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source **
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ruby-alpha-86.vercel.app/]
 
