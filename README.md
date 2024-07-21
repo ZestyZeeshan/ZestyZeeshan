@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zestyzeeshan&label=Profile%20views&color=0e75b6&style=flat" alt="zestyzeeshan" /> </p>
 
-- 🔭 I’m currently looking for Internship .
+- 🔭 I’m currently looking for Internships .
 
 - 🌱 I’m currently learning **ReactJs, Database**
 
