@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for Internships / Full time role  .
 
-- 🌱 I’m currently learning **ReactJs, Database**
+- 🌱 I’m currently learning **React.js, Database**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
