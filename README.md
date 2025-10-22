@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zestyzeeshan&label=Profile%20views&color=0e75b6&style=flat" alt="zestyzeeshan" /> </p>
 
-- 🔭 I’m currently looking for Internships / Full time role  .
+- 🔭 I’m currently looking for Data Engineering Full time role  .
 
-- 🌱 I’m currently learning **React.js, Database**
+- 🌱 I’m currently learning **Big Data, GCP**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
