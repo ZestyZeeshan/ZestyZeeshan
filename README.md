@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ruby-alpha-86.vercel.app/]
-
 - 📫 How to reach me **mohdzeeshanmohammad@gmail.com**
 
 - ⚡ Fun fact **call me Zesty**
